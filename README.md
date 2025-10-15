@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, World! I'm Salty duck  
 
-<!--
-**Megaloduck/Megaloduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me  
+- 🎓 I am currently got graduated in Psychology bachelor degree by 2024 and looking further for studying more in Neuroscience.  
+- 🧠 Neuroscience enthusiast exploring the intersection of cognitive science, behavior, and technology.
+- 🎮 Researcher using games like Tetris as a tool to study real-time problem-solving and stress response.  
+- 📚 Lifelong learner delving into topics like neural networks, AI, and behavioral analysis.
 
-Here are some ideas to get you started:
+## 💼 Current Projects  
+- 🔍 Investigating the relationship between competition and human performance in gameplay.  
+- 🧬 Exploring how neural mechanisms influence decision-making under pressure.
+- 🌱 Learning advanced data visualization techniques and machine learning for neuroscience applications.
+- 🛠️ Combine neuroscience insights with computational tools to explore human behavior.    
+- 🚀 Passionate about understanding how motivation, competition, and decision-making shape human performance.
+- 📊 Getting used to Quantitative correlational experiment, EEG data processing, and Statistical modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Let's Connect  
+- 💌 Reach me at **salmanalmashuri@gmail.com**.  
+- 🌐 Portfolio: **[link to your website or portfolio]**.  
+- 🧑‍🔬 Connect on LinkedIn: **[Your LinkedIn Profile]**  
+
+## 💡 Fun Fact  
+I believe neuroscience and gaming are the ultimate combination to unlock the secrets of the human mental health! 
