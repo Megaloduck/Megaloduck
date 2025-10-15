@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Salty duck  
 
-## 🌟 About Me  
+## 🌟 Introduck-tion
 - 🎓 I am currently got graduated in Psychology bachelor degree by 2024 and looking further for studying more in Neuroscience.  
 - 🧠 Neuroscience enthusiast exploring the intersection of cognitive science, behavior, and technology.
 - 🎮 Researcher using games like Tetris as a tool to study real-time problem-solving and stress response.  
