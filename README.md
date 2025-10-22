@@ -19,5 +19,5 @@
 - 🌐 Portfolio: **[link to your website or portfolio]**.  
 - 🧑‍🔬 Connect on LinkedIn: **[Your LinkedIn Profile]**  
 
-## 💡 Fun Fact  
+## 💡 Further Vision
 I believe neuroscience and gaming are the ultimate combination to unlock the secrets of the human mental health! 
