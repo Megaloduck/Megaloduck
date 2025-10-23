@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Salty duck  
+# 👋 Hello World! I'm Salty duck  
 
 ## 🌟 Introduck-tion
 - 🎓 I am currently got graduated in Psychology bachelor degree by 2024 and looking further for studying more in Neuroscience.  
